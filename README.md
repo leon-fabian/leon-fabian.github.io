@@ -10,7 +10,7 @@ Mentoring
 Outreach
 
 
-#### Neat tools
+#### Tools I Found to be Pretty Neat
 Resources  
 R, Stats, Data  
 Learning R
