@@ -25,6 +25,6 @@ Join Texas A&M University's [MANRRS Chapter](https://mailchi.mp/89543cf62bbe/agg
 #### Sorghumville  
 
 ![Image of Fabian in a sorghum field](sorghumportrait.JPG)
-![Image of Fabian in a sorghum field](rooneylab.jpg)
+![Image of the research group in a sorghum field](rooneylab.JPG)
 
 
