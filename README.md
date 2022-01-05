@@ -1,6 +1,7 @@
 ## Howdy y'all
 
-Welcome to my working repository of research projects and creations. My goal is to curate this website with future work as I continue getting better at this. 
+Welcome to my working repository of research projects and creations. My goal is to curate this website with future work as 
+I continue getting better at this. I now think that I've found a way to incorporate visual studio code and github (local) to my workflow. Let's see.
 
 [Research](Research.md)  
 [Mentoring](Mentoring.md)  
