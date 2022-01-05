@@ -15,7 +15,7 @@ Welcome to my working repository of research projects and creations. My goal is 
 #### Extracurriculars
 [Latinx Graduate Student Association](https://mailchi.mp/4fff621ac758/welcome-to-lgsa)  
 
-[MANRRS](manrrs.org)  
+[MANRRS](https://www.manrrs.org/)  
 Join Texas A&M University's [MANRRS Chapter](https://mailchi.mp/89543cf62bbe/aggielands-manrrs)  
 
 
