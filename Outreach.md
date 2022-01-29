@@ -1,22 +1,32 @@
 # Community and Outreach
 
-
-
 ## Community
 
 President (2017-2018), [Latino Student Union](https://uklatinosu.wixsite.com/lsuuky) - University of Ketucky  
 Secretary (current), [Latinx Graduate Student Association](https://mailchi.mp/4fff621ac758/welcome-to-lgsa) - Texas A&M  
 Treasurer (2020-2021), [Soil and Crop Sciences Graduate Organization](https://soilcrop.tamu.edu/soil-and-crop-sciences-graduate-organization/) - Texas A&M  
  
+### National Association of Plant Breeders  
+
+[Learn more](https://www.plantbreeding.org/)  
+[2021 Borlaug Scholar](https://www.plantbreeding.org/files/napb/2021-borlaug-scholar-profiles-for-posting.pdf)
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi everyone!<br><br>It is our pleasure today to introduce another great graduate student who is preparing to tackle challenges in agricultural production. Please meet Fabian Leon <a href="https://twitter.com/QuantumPhabian?ref_src=twsrc%5Etfw">@QuantumPhabian</a>! <a href="https://t.co/hemDLA3c0y">pic.twitter.com/hemDLA3c0y</a></p>&mdash; NAPB Graduate Students (@NAPB_GSWG) <a href="https://twitter.com/NAPB_GSWG/status/1481451998499131393?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<br/>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please take a moment to learn more about his work. <a href="https://t.co/gVaepm5CkW">pic.twitter.com/gVaepm5CkW</a></p>&mdash; NAPB Graduate Students (@NAPB_GSWG) <a href="https://twitter.com/NAPB_GSWG/status/1481452010775859202?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
+
 
 ###  Minorities in Agriculture, Natural Resources and Related Sciences 
 [National MANRRS Society](https://www.manrrs.org/)  
 Graduate Student Advisor, Treasurer [Texas A&M Chapter](https://mailchi.mp/89543cf62bbe/aggielands-manrrs)  
-Organizer, [Inclusive Excellence Summit](https://agrilifetoday.tamu.edu/2021/11/30/students-host-diversity-inclusion-summit/)
+Organizer, [Inclusive Excellence Summit](https://agrilifetoday.tamu.edu/2021/11/30/students-host-diversity-inclusion-summit/)  
+National Undergraduate Parliamentarian (2017-2018)  
 
 
 ### Society for the Advancement of Chicanxs and Native Americans in Science
-Texas A&M Chapter
+[Texas A&M Chapter](https://agrilife.org/ecotoxicology/sacnas-tamu-student-chapter/)
 
 ### Agriculture Future of America
 [2019 AFA Student Advisory Team](https://www.agfuture.org/s/1342/rd16/index.aspx?sid=1342&gid=1&pgid=252&cid=644&ecid=4216&sparam=fabian&scontid=2908)   
@@ -29,15 +39,6 @@ Texas A&M Chapter
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this week&#39;s AFA Spotlight, Student Advisory Team member and <a href="https://twitter.com/UKAgriculture?ref_src=twsrc%5Etfw">@UKAgriculture</a> student Fabian Leon shares his experience at <a href="https://twitter.com/hashtag/LatinosInAg18?src=hash&amp;ref_src=twsrc%5Etfw">#LatinosInAg18</a> and why these types of events are important. <a href="https://twitter.com/QuantumPhabian?ref_src=twsrc%5Etfw">@QuantumPhabian</a> <a href="https://twitter.com/LatinosInAg?ref_src=twsrc%5Etfw">@LatinosInAg</a> 📷: Rick Chavez Photography <a href="https://t.co/alPAM2kAQv">https://t.co/alPAM2kAQv</a> <a href="https://t.co/eAec5QkiDF">pic.twitter.com/eAec5QkiDF</a></p>&mdash; Agriculture Future of America (@AgFutureAmerica) <a href="https://twitter.com/AgFutureAmerica/status/1083037092626792448?ref_src=twsrc%5Etfw">January 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-### National Association of Plant Breeders  
-
-[Learn more](https://www.plantbreeding.org/)  
-[2021 Borlaug Scholar](https://www.plantbreeding.org/files/napb/2021-borlaug-scholar-profiles-for-posting.pdf)
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi everyone!<br><br>It is our pleasure today to introduce another great graduate student who is preparing to tackle challenges in agricultural production. Please meet Fabian Leon <a href="https://twitter.com/QuantumPhabian?ref_src=twsrc%5Etfw">@QuantumPhabian</a>! <a href="https://t.co/hemDLA3c0y">pic.twitter.com/hemDLA3c0y</a></p>&mdash; NAPB Graduate Students (@NAPB_GSWG) <a href="https://twitter.com/NAPB_GSWG/status/1481451998499131393?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-<br/>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please take a moment to learn more about his work. <a href="https://t.co/gVaepm5CkW">pic.twitter.com/gVaepm5CkW</a></p>&mdash; NAPB Graduate Students (@NAPB_GSWG) <a href="https://twitter.com/NAPB_GSWG/status/1481452010775859202?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 

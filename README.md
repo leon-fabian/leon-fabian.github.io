@@ -1,9 +1,6 @@
 ## Howdy y'all
-<br/>
 
 Welcome to my working repository of research projects and involvements. My goal is to consistently document the things I work on or develop so that I can reference them later.
-
-
 
 ### Contact me
 
@@ -26,11 +23,9 @@ College Station, TX 77840
 
 
 ### Helpful Links 
+
 [Sorghum](https://www.sorghumcheckoff.com/sorghum-101/)  
 [Texas A&M University](https://www.tamu.edu/)  
 
-<br/>
-
 ![Image of Fabian in a sorghum field](sorghumportrait.JPG)
-
 
