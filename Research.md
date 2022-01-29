@@ -3,16 +3,16 @@
 
 ### Projects
 
+- Texas' Elite Grain Sorghum Hybrid Trends from 1970-2016   
+*Data visualization dashboard coming soon, hopefully*
+
 - Combining Abilities Among Elite Grain Sorghum Germplasm in the AgriLife Research Sorghum Breeding Program
 
 - Evaluating & Predicting Performance of Hybrids in Texas A&M Grain Sorghum Breeding Program
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/n1eBQRi5IrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
 
-- Historical Multi-Environmental Trials Reveal Elite Grain Sorghum Hybrid Trends from 1970-2016  
-*Data visualization dashboard coming soon*
 
 
 ### Publications
