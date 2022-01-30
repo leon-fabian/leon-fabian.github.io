@@ -12,8 +12,7 @@ SeedWorld Article: [Chicanx Identity and its Important Influence in Science and 
 
 
 
-## Community
-
+## Community  
 President (2017-2018), [Latino Student Union](https://uklatinosu.wixsite.com/lsuuky) - University of Ketucky  
 Secretary (current), [Latinx Graduate Student Association](https://mailchi.mp/4fff621ac758/welcome-to-lgsa) - Texas A&M  
 Treasurer (2020-2021), [Soil and Crop Sciences Graduate Organization](https://soilcrop.tamu.edu/soil-and-crop-sciences-graduate-organization/) - Texas A&M  
@@ -31,17 +30,22 @@ Treasurer (2020-2021), [Soil and Crop Sciences Graduate Organization](https://so
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Please take a moment to learn more about his work. <a href="https://t.co/gVaepm5CkW">pic.twitter.com/gVaepm5CkW</a></p>&mdash; NAPB Graduate Students (@NAPB_GSWG) <a href="https://twitter.com/NAPB_GSWG/status/1481452010775859202?ref_src=twsrc%5Etfw">January 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-
+![MANRRS logo](https://www.manrrs.org/hs-fs/hubfs/Manrrs%20March%202018/Home%20Page/logo.png?width=182&name=logo.png)
 ###  Minorities in Agriculture, Natural Resources and Related Sciences 
 [National MANRRS Society](https://www.manrrs.org/)  
 Graduate Student Advisor, Treasurer [Texas A&M Chapter](https://mailchi.mp/89543cf62bbe/aggielands-manrrs)  
 Organizer, [Inclusive Excellence Summit](https://agrilifetoday.tamu.edu/2021/11/30/students-host-diversity-inclusion-summit/)  
 National Undergraduate Parliamentarian (2017-2018)  
+<br/>
 
-
+![SACNAS logo](https://fs.hubspotusercontent00.net/hubfs/8465809/Sacnas%20-%20Logo%201.svg)
 ### Society for the Advancement of Chicanxs and Native Americans in Science
 [Texas A&M Chapter](https://agrilife.org/ecotoxicology/sacnas-tamu-student-chapter/)
+<br/>
+<br/>
 
+
+![AFA logo](https://www.agfuture.org/s/1342/images/editor/template/afa_logo_11-5-16.jpeg)
 ### Agriculture Future of America
 [2019 AFA Student Advisory Team](https://www.agfuture.org/s/1342/rd16/index.aspx?sid=1342&gid=1&pgid=252&cid=644&ecid=4216&sparam=fabian&scontid=2908)   
 [Corporate partnerships](https://www.agfuture.org/s/1342/rd16/index.aspx?sid=1342&gid=1&pgid=252&cid=644&ecid=4430&sparam=fabian&scontid=3091)
