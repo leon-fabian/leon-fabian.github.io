@@ -2,7 +2,7 @@
 
 Welcome to my working repository of research projects and involvements. My goal is to consistently document the things I work on or develop so that I can reference them later.
 
-### Contact me
+### Contact Me
 
 Email:  fabian.leon@tamu.edu  
 Twitter: [quantumphabian](https://twitter.com/QuantumPhabian)  
@@ -11,7 +11,7 @@ LinkedIn: [Fabian Leon](https://www.linkedin.com/in/fabian-leon-019a44111/)
 Github: [leon-fabian](https://github.com/leon-fabian)
 
 Address:  
-*Foundation Seed Building – Sorghum Breeding*   
+*Sorghum Breeding*   
 405 Turk Rd, Texas A&M University  
 College Station, TX 77840
 
