@@ -15,10 +15,6 @@
 
 
 
-### Publications
-
-- Jang, C., Wang, R., Wells, J., **Leon, F.**, Farman, M., Hammond, J., & Goodin, M. M. (2017). Genome sequence variation in the constricta strain dramatically alters the protein interaction and localization map of Potato yellow dwarf virus. The Journal of general virology, 98(6), 1526–1536. https://doi.org/10.1099/jgv.0.000771
-
 
 ### Presentations 
 
@@ -27,10 +23,10 @@
 - **Leon, F.**, Fonseca, J., Klein, P. E., Klein, R. R., & Rooney, W. L. (2020) Developing Genomic Predictions for Grain Sorghum Hybrid Performance Using a Partial Factorial Mating Design. ASA, CSSA and SSSA International Annual Meetings (2020) VIRTUAL, Phoenix, AZ. https://scisoc.confex.com/scisoc/2020am/meetingapp.cgi/Paper/128193
 
 
-  
+### Publications
+
+- Jang, C., Wang, R., Wells, J., **Leon, F.**, Farman, M., Hammond, J., & Goodin, M. M. (2017). Genome sequence variation in the constricta strain dramatically alters the protein interaction and localization map of Potato yellow dwarf virus. The Journal of general virology, 98(6), 1526–1536. https://doi.org/10.1099/jgv.0.000771
 
 
-### Sorghumville Group
-![Image of the research group in a sorghum field](rooneylab.JPG)
 
 
