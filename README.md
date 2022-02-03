@@ -10,11 +10,6 @@ Google Scholar: [Fabian Leon](https://scholar.google.com/citations?user=RCa1vLoA
 LinkedIn: [Fabian Leon](https://www.linkedin.com/in/fabian-leon-019a44111/)   
 Github: [leon-fabian](https://github.com/leon-fabian)
 
-Address:  
-*Sorghum Breeding*   
-405 Turk Rd, Texas A&M University  
-College Station, TX 77840
-
 ### Portfolio
 
 [Research](Research.md)  
@@ -22,10 +17,6 @@ College Station, TX 77840
 [Community and Outreach](Outreach.md) 
 
 
-### Helpful Links 
+Learn more about Sorghum  
 
-[Sorghum](https://www.sorghumcheckoff.com/sorghum-101/)  
-[Texas A&M University](https://www.tamu.edu/)  
-
-![Image of Fabian in a sorghum field](sorghumportrait.JPG)
-
+[Sorghum Checkoff](https://www.sorghumcheckoff.com/sorghum-101/)  
