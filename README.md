@@ -12,7 +12,6 @@ Google Scholar: [Fabian Leon](https://scholar.google.com/citations?user=RCa1vLoA
 LinkedIn: [Fabian Leon](https://www.linkedin.com/in/fabian-leon-019a44111/)   
 Github: [leon-fabian](https://github.com/leon-fabian)
 
-<br/>
 
 ### Portfolio
 
