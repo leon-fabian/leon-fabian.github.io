@@ -2,9 +2,9 @@
 
 ## Howdy, 
 
-### Welcome to my working repository of research projects and involvements. I am a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
+Welcome to my working repository of research projects and involvements. I am a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
 
-#
+
 
 ### Portfolio
 [Research](Research.md)  
@@ -12,7 +12,6 @@
 
 [Community and Outreach](Outreach.md) 
 
-#
 
 ### Learn more about Sorghum 
 
@@ -20,10 +19,6 @@
 [Texas Sorghum Culture](https://www.tshaonline.org/handbook/entries/sorghum-culture)  
 [Kentucky Sweet Sorghum](https://www.uky.edu/ccd/production/crop-resources/GFFOF/sorghum)  
 [Sorgo Mexicano](https://www.gob.mx/cms/uploads/attachment/file/256433/B_sico-Sorgo_Grano.pdf)  
-
-
-
-#
 
 
 ### About me
