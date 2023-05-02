@@ -1,16 +1,18 @@
-# 
 
 
+## Howdy, 
 
+### Welcome to my working repository of research projects and involvements. I am a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
 
+#
 
-Welcome to my working repository of research projects and involvements. I am a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences. 
-
+### Portfolio
 [Research](Research.md)  
 
 
 [Community and Outreach](Outreach.md) 
 
+#
 
 ### Learn more about Sorghum 
 
@@ -21,7 +23,7 @@ Welcome to my working repository of research projects and involvements. I am a g
 
 
 
-
+#
 
 
 ### About me
