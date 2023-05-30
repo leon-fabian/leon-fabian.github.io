@@ -46,7 +46,7 @@ National Undergraduate Parliamentarian (2017-2018)
 <br/>
 
 
-![AFA logo](https://www.agfuture.org/s/1342/images/editor/template/afa_logo_11-5-16.jpeg)
+
 ### Agriculture Future of America
 [2019 AFA Student Advisory Team](https://www.agfuture.org/s/1342/rd16/index.aspx?sid=1342&gid=1&pgid=252&cid=644&ecid=4216&sparam=fabian&scontid=2908)   
 [Corporate partnerships](https://www.agfuture.org/s/1342/rd16/index.aspx?sid=1342&gid=1&pgid=252&cid=644&ecid=4430&sparam=fabian&scontid=3091)
