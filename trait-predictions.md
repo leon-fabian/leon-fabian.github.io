@@ -7,7 +7,7 @@ Grain Yield
 
 Test weight 
 
-![Grain Yield](gy.plot.svg) 
+![TW](tw.plot.svg) 
 
 Panicle Weight 
 
