@@ -2,41 +2,52 @@
 
 
 Grain Yield 
-![Grain Yield](gy.plot.svg)
 
-Test weight
-![Grain Yield](gy.plot.svg)
+![Grain Yield](gy.plot.svg) 
 
-Panicle Weight
-![PanicleWeight](pw.plot.svg)
+Test weight 
 
-Panicle Exsertion
-![PanicleExsertion](ex.plot.svg)
+![Grain Yield](gy.plot.svg) 
 
-Plant Height
-![PH](ph.plot.svg) 
+Panicle Weight 
 
+![PanicleWeight](pw.plot.svg) 
 
-Days to Mid Anthesis
-![DA](gy.plot.svg)
+Panicle Exsertion 
 
+![PanicleExsertion](ex.plot.svg) 
 
-Percent Starch in Grain
-![Starch](gy.plot.svg)
+Plant Height 
+
+![PH](ph.plot.svg)  
 
 
-Percent Fiber in Grain
-![Fiber](gy.plot.svg)
+Days to Mid Anthesis 
+
+![DA](da.plot.svg) 
 
 
-Percent Fat in Grain
-![Fat](gy.plot.svg)
+Percent Starch in Grain 
+
+![Starch](starch.plot.svg)
 
 
-Percent Ash in Grain
-![Ash](gy.plot.svg)
+Percent Fiber in Grain 
+
+![Fiber](fiber.plot.svg)
 
 
-Percent Protein in Grain
-![Protein](gy.plot.svg)
+Percent Fat in Grain 
+
+![Fat](fat.plot.svg)
+
+
+Percent Ash in Grain 
+
+![Ash](ash.plot.svg)
+
+
+Percent Protein in Grain 
+
+![Protein](protein.plot.svg)
 
