@@ -4,7 +4,9 @@
 
 Welcome to my working repository of research projects and involvements. I am a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
 
+[See more trait predictions from my poster](trait-predictions.md)  
 
+ 
 
 ### Portfolio
 [Research](Research.md)  
