@@ -1,26 +1,34 @@
 # Community and Outreach
 
-## Outreach
+## News and Outreach
 
-SeedWorld Article: [Chicanx Identity and its Important Influence in Science and Ag](https://seedworld.com/fabian-leon-chicanx-identity-and-its-important-influence-in-science-and-ag/) 
+### SeedWorld Article: 
+[Chicanx Identity and its Important Influence in Science and Ag](https://seedworld.com/fabian-leon-chicanx-identity-and-its-important-influence-in-science-and-ag/) 
 <br/>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How can changing the face of our industry bolster public trust? Find out on this week&#39;s episode of <a href="https://twitter.com/hashtag/SeedSpeaks?src=hash&amp;ref_src=twsrc%5Etfw">#SeedSpeaks</a> when <a href="https://twitter.com/mzienkie?ref_src=twsrc%5Etfw">@mzienkie</a> chats with <a href="https://twitter.com/MANRRS_COO?ref_src=twsrc%5Etfw">@MANRRS_COO</a>, <a href="https://twitter.com/QuantumPhabian?ref_src=twsrc%5Etfw">@QuantumPhabian</a> and <a href="https://twitter.com/KellyjLendsay?ref_src=twsrc%5Etfw">@KellyjLendsay</a>. <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a><a href="https://t.co/O5UzzUVoGw">https://t.co/O5UzzUVoGw</a> <a href="https://t.co/VCzMcDAbw6">pic.twitter.com/VCzMcDAbw6</a></p>&mdash; Seed World (@SeedWorldMag) <a href="https://twitter.com/SeedWorldMag/status/1460355304911261702?ref_src=twsrc%5Etfw">November 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-National MANRRS Webinar: "Examining How Racism and Biases have shaped the American Ag Industry: A Millennial’s Perspective" 
+
+
+### National MANRRS Webinar: 
+"Examining How Racism and Biases have shaped the American Ag Industry: A Millennial’s Perspective" 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Re-watch our very own <a href="https://twitter.com/QuantumPhabian?ref_src=twsrc%5Etfw">@quantumphabian</a> as a panelist on yesterday&#39;s <a href="https://twitter.com/NationalMANRRS?ref_src=twsrc%5Etfw">@NationalMANRRS</a> Webinar: “Examining How Racism and Biases have shaped the American Ag Industry: A Millennial’s Perspective”<a href="https://t.co/ZmQEgm0cWE">https://t.co/ZmQEgm0cWE</a></p>&mdash; Aggieland&#39;s MANRRS (@TAMU_MANRRS) <a href="https://twitter.com/TAMU_MANRRS/status/1275863371452121089?ref_src=twsrc%5Etfw">June 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-The Agricultural Education Magazine Article:
-- Leon, F. (2020). [Our Burden of Inclusivity](https://www.naae.org/profdevelopment/magazine/archive_issues/Volume92/2020%2001%20--%20Jan%20Feb.pdf). The Agricultural Education Magazine, 92(4), 13–14. 
+### The Agricultural Education Magazine Article:
+- Leon, F. (2020). Our Burden of Inclusivity. The Agricultural Education Magazine, 92(4), 13–14. 
 
-## Community  
-President (2017-2018), [Latino Student Union](https://uklatinosu.wixsite.com/lsuuky) - University of Ketucky  
-Secretary (current), [Latinx Graduate Student Association](https://mailchi.mp/4fff621ac758/welcome-to-lgsa) - Texas A&M  
-Treasurer (2020-2021), [Soil and Crop Sciences Graduate Organization](https://soilcrop.tamu.edu/soil-and-crop-sciences-graduate-organization/) - Texas A&M  
+    
+        
+
+
+
+# Affiliations  
+President (2017-2018), [Latino Student Union](https://uklatinosu.wixsite.com/lsuuky) - University of Kentucky  
+Secretary (current), [Latinx Graduate Student Association](https://mailchi.mp/4fff621ac758/welcome-to-lgsa) - Texas A&M University 
+Treasurer (2020-2021), [Soil and Crop Sciences Graduate Organization](https://soilcrop.tamu.edu/soil-and-crop-sciences-graduate-organization/) - Texas A&M Unicersity 
  
 
-![NAPB logo](https://www.plantbreeding.org/sites/plantbreeding.org/themes/napb/images/logo.png)
 ### National Association of Plant Breeders  
 
 [Learn more](https://www.plantbreeding.org/)  

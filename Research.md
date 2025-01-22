@@ -1,5 +1,9 @@
 # Sorghum Breeding and Genetics
 
+### Publications
+
+Please refer to my [google scholar profile](https://scholar.google.com/citations?hl=en&user=RCa1vLoAAAAJ&view_op=list_works&sortby=pubdate).
+
 
 ### Projects
 
@@ -38,9 +42,6 @@ Genomic and Enviromic prediction modeling of hybrid performance
 - **Leon, F.**, Fonseca, J., Klein, P. E., Klein, R. R., & Rooney, W. L. Developing Genomic Predictions for Grain Sorghum Hybrid Performance Using a Partial Factorial Mating Design. ASA, CSSA and SSSA International Annual Meetings (2020) VIRTUAL, Phoenix, AZ. https://scisoc.confex.com/scisoc/2020am/meetingapp.cgi/Paper/128193
 
 
-### Publications
-
-Please refer to my [google scholar profile](https://scholar.google.com/citations?hl=en&user=RCa1vLoAAAAJ&view_op=list_works&sortby=pubdate).
 
 
 

@@ -1,7 +1,6 @@
 ### A Crashcourse in Reproducible Data Analysis and GitHub For Soil and Crop Sciences
 
 
-
 Introduction to Reproducible Data Analysis:
 * Importance of reproducibility in research.
 * Benefits of reproducible workflows for Soil and Crop Sciences.
