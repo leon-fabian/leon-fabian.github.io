@@ -6,10 +6,12 @@ Welcome to my working repository of research projects and involvements. I am a p
 
 Previously, I was a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
 
+[Learn more about my poster on grain yields of Kentucky rye](Poster.md)
 
 
 ### Portfolio
-*fill in Rye Research here *
+Rye Research 
+
 
 [Sorghum Research](Research.md)  
 
@@ -40,7 +42,10 @@ Email:  fabian.leon@uky.edu
 
 ## Learn more about Rye 
 
-[Sorghum Checkoff](https://www.sorghumcheckoff.com/sorghum-101/)  
+[The Initative to Bring Rye Back to Kentucky & Brown-Forman's Commitment](https://www.brown-forman.com/article/woodford-reserve-announces-5-year-commitment-buy-rye-kentucky-farmers-part-research-project)  
+
+
+[Rye's Journey](https://www.producer.com/news/ryes-agricultural-journey-set-over-thousands-of-years/)
 
 
 
