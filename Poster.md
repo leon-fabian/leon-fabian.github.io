@@ -33,8 +33,8 @@ Figure 4. An enviromics analysis was conducted by aggregating climate variables 
 Figure 5. A genotype-by-environment interaction analysis was conducted using mean yield data aggregated by variety and environment, retaining genotypes and environments meeting minimum trial representation thresholds, and fitting a GGE biplot using the metan package in R; genotype and environment scores were extracted from the first two principal components and visualized to assess patterns of yield performance and environmental differentiation.
 ![alt text](3.9.26-5.svg)
 
-
-
+Figure 6. From an analysis of the Kentucky Variety Trials, only. Variety performance was estimated using best linear unbiased estimates (BLUEs) derived from a linear model fitted in R with environment and block nested within environment included as fixed effects to account for spatial and environmental structure in the trial design. Adjusted variety means were extracted using the emmeans package, and 95% confidence intervals were computed from model-based standard errors to quantify uncertainty around each estimate.  
+![alt text](image-1.png)
 
 
 
