@@ -4,7 +4,7 @@
 
 Welcome to my working repository of research projects and involvements. I am a postdoctoral scholar in rye breeding, genetics, and agronomy at the University of Kentucky's Department of Plant and Soil Science. 
 
-Previously, I was a graduate student at Texas A&M University's Sorghum Breeding and Genetics lab in the Department of Soil and Crop Sciences.   
+Previously, I was a graduate student at Texas A&M University's Sorghum Breeding lab in the Department of Soil and Crop Sciences.   
 
 [Learn more about my poster on grain yields of Kentucky rye](Poster.md)
 
